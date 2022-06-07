@@ -1,0 +1,3 @@
+login_email = //*[@id="box-account-login"]/div/form/table/tbody/tr[1]/td/input
+login_password = //*[@id="box-account-login"]/div/form/table/tbody/tr[2]/td/input
+login_button = login
